@@ -6,7 +6,7 @@ My main research topic is the stochastic filtering problem. In this profile, I p
 
 The main filters I have worked with are:
 
-1) Hidden Markov Model (HMM)
+1) Hidden Markov Model Filter (Grid Filter)
 2) Kalman-Bucy Filter (KF)
 3) Extended Kalman Filter (EKF)
 4) Particle Filter (PF)
