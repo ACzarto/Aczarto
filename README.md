@@ -2,26 +2,10 @@ Hi there! 👋
 
 I’m currently in my final year of a Bachelor’s degree in Electronics Engineering at the Aeronautics Institute of Technology (ITA).
 
-My main research topic is the stochastic filtering problem. In this profile, I present some of the projects and implementations I have developed during my undergraduate studies.
-
-The main filters I have worked with are:
-
-1) Hidden Markov Model Filter (Grid Filter)
-2) Kalman-Bucy Filter (KF)
-3) Extended Kalman Filter (EKF)
-4) Particle Filter (PF)
-5) Rao-Blackwellized Particle Filter (RBPF)
-6) Unscented Kalman Filter (UKF)
+My main research topic is Digital Signal Processing (DSP), especially in the area of stochastic filtering algorithms, with a focus on state estimation in dynamic systems. My work emphasizes probabilistic and statistical methods within the framework of recursive Bayesian estimation, applied to real-world signals corrupted by uncertainty and measurement noise. In my research, I have worked with both optimal filtering algorithms, such as the Kalman-Bucy filter, as well as Sequential Monte Carlo methods in nonlinear and non-Gaussian settings.
 
 In my undergraduate thesis, I focused on aircraft position estimation in GNSS-denied environments. In this context, classical filtering theory had to be adapted to account for non-Euclidean state spaces. As a result, several filters were extended to the so-called Lie groups, in particular the Special Orthogonal Group SO(3).
 
-For my thesis, I worked with:
+Another area of interest is the application of this theory in quantitative finance, especially the development of Monte Carlo simulations for pricing derivatives, extending, for example, to applications in exotic options.
 
-7) Lie Group Rao-Blackwellized Particle Filter (LG-RBPF)  
-8) Lie Group Extended Kalman Filter (LG-EKF)  
-9) Lie Group Unscented Kalman Filter (LG-UKF)
-
-In the field of Synthetic Aperture Radar (SAR) image processing, I have also worked with:
-
-10) Omega-K algorithm  
-11) Rectangular algorithm
+In this profile, I present some of the projects and implementations I have developed during my undergraduate studies.
